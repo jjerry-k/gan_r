@@ -1,2 +1,3 @@
 *.vscode
-*checkpoints
+*checkpoints/combined_model.h5
+*checkpoints/combined_model_weight.h5
